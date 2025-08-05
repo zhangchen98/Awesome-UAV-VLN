@@ -135,10 +135,9 @@ This repository collects academic efforts in this interdisciplinary field, from 
 
 ## 🔗 Related Topics
 
-- [Awesome-VLN](https://github.com/) – General VLN benchmark papers
-- [Awesome-Embodied-AI](https://github.com/) – Broader embodied vision
-- [Aerial Vision](https://github.com/) – UAV visual perception
-- [LLM for Robotics](https://github.com/) – Large language models for embodied agents
+- [Awesome-vln](https://github.com/daqingliu/awesome-vln)
+- [Awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)
+- [Awesome-embodied-vision](https://github.com/ChanganVR/awesome-embodied-vision) 
 
 ---
 
