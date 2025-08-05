@@ -33,9 +33,7 @@ This repository collects academic efforts in this interdisciplinary field, from 
 
 | Name | Description | Link |
 |------|-------------|------|
-| AirSim | Open-source UAV simulation environment | [GitHub](https://github.com/microsoft/AirSim) |
-| FlightGPT | Large model-driven UAV navigation | [Paper](https://arxiv.org/...) |
-| OpenFly | UAV-VLN Simulator for outdoor scenes | [GitHub](https://github.com/...) |
+
 
 ---
 
